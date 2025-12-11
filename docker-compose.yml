@@ -1,5 +1,4 @@
 services:
-
   mqtt_broker:
     image: eclipse-mosquitto
     container_name: mqtt_mosquitto
@@ -18,6 +17,7 @@ services:
       - "8082:80"
     depends_on:
       - mqtt_broker
+
   portainer:
     image: portainer/portainer-ce:alpine
     container_name: mqtt_portainer
@@ -27,6 +27,16 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - portainer_data:/data
-    restart: always    
-volumes: 
+    restart: always
+
+  mqtt_logger:
+    image: eclipse-mosquitto
+    depends_on:
+      - mqtt_broker
+    entrypoint: >
+      sh -c 'sleep 2 && mosquitto_sub -h mqtt_broker -t "#" -v >> /mosquitto/log/messages.log'
+    volumes:
+      - ./VolumesMosquitto/log:/mosquitto/log
+
+volumes:
   portainer_data:
