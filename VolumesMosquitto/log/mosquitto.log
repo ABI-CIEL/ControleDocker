@@ -98,3 +98,30 @@
 1765447233: Sending PINGRESP to mqttx_f2836514
 1765447293: Received PINGREQ from mqttx_f2836514
 1765447293: Sending PINGRESP to mqttx_f2836514
+1765447296: Received PUBLISH from mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447296: Sending PUBLISH to mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447356: Received PINGREQ from mqttx_f2836514
+1765447356: Sending PINGRESP to mqttx_f2836514
+1765447416: Received PINGREQ from mqttx_f2836514
+1765447416: Sending PINGRESP to mqttx_f2836514
+1765447429: Received PUBLISH from mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447429: Sending PUBLISH to mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447432: Received PUBLISH from mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447432: Sending PUBLISH to mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447432: Received PUBLISH from mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447432: Sending PUBLISH to mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447433: Received PUBLISH from mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447433: Sending PUBLISH to mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447433: Received PUBLISH from mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447433: Sending PUBLISH to mqttx_f2836514 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447493: Received PINGREQ from mqttx_f2836514
+1765447493: Sending PINGRESP to mqttx_f2836514
+1765447553: Received PINGREQ from mqttx_f2836514
+1765447553: Sending PINGRESP to mqttx_f2836514
+1765447613: Received PINGREQ from mqttx_f2836514
+1765447613: Sending PINGRESP to mqttx_f2836514
+1765447673: Received PINGREQ from mqttx_f2836514
+1765447673: Sending PINGRESP to mqttx_f2836514
+1765447734: Received PINGREQ from mqttx_f2836514
+1765447734: Sending PINGRESP to mqttx_f2836514
+1765447825: Client mqttx_f2836514 closed its connection.
