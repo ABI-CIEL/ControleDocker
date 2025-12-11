@@ -16,3 +16,33 @@
 1765444924: Sending PINGRESP to postman-mqtt-client-1765444844149
 1765444944: Received PUBLISH from postman-mqtt-client-1765444844149 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
 1765444944: Sending PUBLISH to postman-mqtt-client-1765444844149 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765445004: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445004: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445064: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445064: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445124: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445124: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445184: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445184: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445244: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445244: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445304: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445304: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445364: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445364: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445424: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445424: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445484: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445484: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445544: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445544: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445604: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445604: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445664: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445664: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445724: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445724: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445784: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445784: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445844: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445844: Sending PINGRESP to postman-mqtt-client-1765444844149
