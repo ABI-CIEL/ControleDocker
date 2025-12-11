@@ -46,3 +46,55 @@
 1765445784: Sending PINGRESP to postman-mqtt-client-1765444844149
 1765445844: Received PINGREQ from postman-mqtt-client-1765444844149
 1765445844: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445904: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445904: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765445964: Received PINGREQ from postman-mqtt-client-1765444844149
+1765445964: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446024: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446024: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446084: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446084: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446144: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446144: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446205: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446205: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446265: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446265: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446325: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446325: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446385: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446385: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446445: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446445: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446505: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446505: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446565: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446565: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446625: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446625: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446685: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446685: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446745: Received PINGREQ from postman-mqtt-client-1765444844149
+1765446745: Sending PINGRESP to postman-mqtt-client-1765444844149
+1765446756: mosquitto version 2.0.22 terminating
+1765446757: mosquitto version 2.0.22 starting
+1765446757: Config loaded from /mosquitto/config/mosquitto.conf.
+1765446757: Opening ipv4 listen socket on port 1883.
+1765446757: Opening ipv6 listen socket on port 1883.
+1765446757: Opening websockets listen socket on port 9005.
+1765446757: mosquitto version 2.0.22 running
+1765447025: New client connected from ::ffff:172.19.0.1:43300 as mqttx_f2836514 (p5, c1, k60).
+1765447025: No will message specified.
+1765447025: Sending CONNACK to mqttx_f2836514 (0, 0)
+1765447085: Received PINGREQ from mqttx_f2836514
+1765447085: Sending PINGRESP to mqttx_f2836514
+1765447145: Received PINGREQ from mqttx_f2836514
+1765447145: Sending PINGRESP to mqttx_f2836514
+1765447173: Received SUBSCRIBE from mqttx_f2836514
+1765447173: 	BTS (QoS 0)
+1765447173: mqttx_f2836514 0 BTS
+1765447173: Sending SUBACK to mqttx_f2836514
+1765447233: Received PINGREQ from mqttx_f2836514
+1765447233: Sending PINGRESP to mqttx_f2836514
+1765447293: Received PINGREQ from mqttx_f2836514
+1765447293: Sending PINGRESP to mqttx_f2836514
